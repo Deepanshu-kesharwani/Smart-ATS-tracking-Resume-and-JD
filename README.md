@@ -118,7 +118,7 @@ Smart-ATS-tracking-Resume-and-JD/
 ├── requirements.txt        # Python dependencies
 ├── .env                    # Environment variables (create this)
 ├── .gitignore             # Git ignore file
-└── README.md              # This file
+└── README.md              
 ```
 
 ## How It Works
@@ -199,9 +199,7 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
 
-This project is open source and available under the MIT License.
 
 ## Support
 
